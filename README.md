@@ -22,7 +22,7 @@ Models are trained on hyperspectral images acquired by the HYPSO-1 CubeSat devel
 - **Quantization:** Post-training quantization (INT8)
 
 ## Dataset
-The dataset consists of 44 labeled images from HYPSO-1 and was labeled by Philips Berg, NTNU. Dimensionality reduction is applied using principal component analysis (PCA) prior to inference.
+The dataset consists of 44 labeled images from HYPSO-1. Dimensionality reduction is applied using principal component analysis (PCA) prior to inference.
 
 
 ## Results
