@@ -34,5 +34,5 @@ The dataset consists of 44 labeled images from HYPSO-1 and was labeled by Philip
 ## Thesis Reference
 This repository accompanies the master’s project:
 
-**Onboard Cloud–Land–Sea Segmentation Using Vitis AI on the HYPSO CubeSat**  
+**Onboard Land–Sea–Cloud Segmentation of Hyperspectral Satellite Imagery Using Deep Learning on FPGA with Vitis AI**  
 Norwegian University of Science and Technology (NTNU), 2025
