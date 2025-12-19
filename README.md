@@ -24,7 +24,6 @@ Models are trained on hyperspectral images acquired by the HYPSO-1 CubeSat devel
 ## Dataset
 The dataset consists of 44 labeled images from HYPSO-1 and was labeled by Philips Berg, NTNU. Dimensionality reduction is applied using principal component analysis (PCA) prior to inference.
 
-*Dataset access details or links may be provided if permitted.*
 
 ## Results
 - Four principal components capture over **99.5%** of the spectral variance  
